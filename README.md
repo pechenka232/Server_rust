@@ -4,6 +4,9 @@
 
 
 cargo new rust_web_server
+
 cd rust_web_server
+
 code .
+
 
